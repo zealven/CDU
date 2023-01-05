@@ -12,7 +12,8 @@
         "service": "iris",
         "internalPort": 52773
       },
-      "active": true
+      "active": true,
+      "server": "devcontainer"
     },
     "sqltools.connections": [
       {
